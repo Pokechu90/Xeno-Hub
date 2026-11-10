@@ -1,7 +1,7 @@
 -- =============================================================================
--- XENOHUB ULTIMATE EDITION V5 (KEYLESS - BETA UPDATE)
+-- XENOHUB ULTIMATE EDITION V5 (KEYLESS - MASTER PRODUCTION SOURCE)
 -- Target Game: Attack on Titan Revolution (AOT:R)
--- Production Ready Code Base - Structured for GitHub Hosting
+-- Host Link: https://github.com
 -- =============================================================================
 
 if getgenv().XenoHub_Loaded then
@@ -29,7 +29,7 @@ getgenv().XenoHub_Config = {
     AutoLoad = true,
     
     -- UI Options (Custom Orion Customizations)
-    ActiveTheme = "Black & Yellow", -- Black & Yellow, Total Dark, Lumina Bright, Cyber Glow
+    ActiveTheme = "Black & Yellow",
     UITransparency = 0,
     
     -- Combat Vectors
@@ -69,7 +69,7 @@ getgenv().XenoHub_Config = {
     
     -- Beta Automation Systems
     AdaptiveBuilds = false,
-    TargetRoutine = "Offense Overload", -- Offense Overload, Balanced Raid, Wave Tank
+    TargetRoutine = "Offense Overload",
     
     -- Chest Modules
     AutoOpenPremiumChest = false,
