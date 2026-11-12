@@ -6,7 +6,7 @@ Welcome to **XenoHub Ultimate V5**, a highly optimized, feature-rich automated s
 Copy and paste the loadstring frame below into your Roblox executor of choice to boot up the menu interface instantly:
 
 ```lua
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pokechu90/Xeno-Hub/refs/heads/main/main.lua"))()
 ```
 
 ---
